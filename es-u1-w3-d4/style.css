@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    padding-bottom: 1em;
+    color: red;
+    background-color: #f2edf7;
+}
+#button {
+    font-size: initial;
+    padding: 1em;
+    color: white;
+    background-color: #e95656;
+    border: 0px;
+    border-radius: 90%;
+}
+main {
+    background-color: #f2edf7;
+}
